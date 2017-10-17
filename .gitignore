@@ -1,0 +1,9 @@
+tags
+build*
+*.qm
+.directory
+mysql.cnf
+.DS_Store
+.idea/
+*.aps
+cmake-build-debug/

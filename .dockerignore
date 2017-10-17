@@ -1,0 +1,9 @@
+.git/
+build/
+.github/
+.travis/
+.tx/
+cockatrice/
+doc/
+oracle/
+Dockerfile
