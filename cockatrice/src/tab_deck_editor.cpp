@@ -42,6 +42,7 @@
 #include "cardframe.h"
 #include "filterbuilder.h"
 
+
 void SearchLineEdit::keyPressEvent(QKeyEvent *event)
 {
     if (treeView && ((event->key() == Qt::Key_Up) || (event->key() == Qt::Key_Down)))
